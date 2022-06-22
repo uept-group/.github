@@ -1,4 +1,3 @@
-# umpt
-* u, ultimate
-* m, more, support more data
-* pt, product
+# uept
+
+**U**ltimat**e** **P**roduc**t**
